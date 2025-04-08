@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-**allarrisa/allarrisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Larissa and this account is for my studies
+### Here is my princial account where I commit projetcts -> [LarissaBndct](https://github.com/LarissaBndct)
 
 Here are some ideas to get you started:
 
