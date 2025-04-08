@@ -1,3 +1,3 @@
-## Hi there 👋
-# I'm Larissa and this account is for my studies
-### Here is my princial account where I commit projects -> [LarissaBndct](https://github.com/LarissaBndct)
+## Hey there 👋  
+I'm Larissa, and this account is dedicated to my studies and learning journey.  
+### You can check out my main account, where I share my projects and contributions: [LarissaBndct](https://github.com/LarissaBndct)
